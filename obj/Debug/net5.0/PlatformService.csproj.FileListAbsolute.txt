@@ -1,0 +1,7 @@
+D:\projects\MicroServices\PlatformService\obj\Debug\net5.0\PlatformService.csproj.AssemblyReference.cache
+D:\projects\MicroServices\PlatformService\obj\Debug\net5.0\PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\MicroServices\PlatformService\obj\Debug\net5.0\PlatformService.AssemblyInfoInputs.cache
+D:\projects\MicroServices\PlatformService\obj\Debug\net5.0\PlatformService.AssemblyInfo.cs
+D:\projects\MicroServices\PlatformService\obj\Debug\net5.0\PlatformService.csproj.CoreCompileInputs.cache
+D:\projects\MicroServices\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\MicroServices\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
