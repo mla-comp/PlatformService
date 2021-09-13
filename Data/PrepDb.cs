@@ -28,6 +28,7 @@ namespace PlatformService.Data
                 );
 
                 context.SaveChanges();
+                //https://youtu.be/DgVjEo3OGBI?t=5254
             }
             else
             {
