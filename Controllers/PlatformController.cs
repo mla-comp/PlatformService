@@ -54,5 +54,7 @@ namespace PlatformService.Controllers
 
             return CreatedAtRoute(nameof(GetPlatformById), new { Id = platformReadDto.Id }, platformReadDto);
         }
+
+        //https://youtu.be/DgVjEo3OGBI?t=8163
     }
 }
